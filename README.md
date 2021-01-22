@@ -1,4 +1,4 @@
 # alfred-1password-direct-copy-workflow
 Copy a password directly from 1Password.
 
-It works with 1Password 7.
+Tested with 1Password 7.7
