@@ -5,11 +5,11 @@ tell application "System Events"
 	delay 0.5
 
 	# -- reset possible same previous search --
-	key code 8 using command down # copy
+	key code 8 using command down #copy
 	delay 0.2
-	key code 51 # delete
+	key code 51 #delete
 	delay 0.2
-	key code 9 using command down # paste
+	key code 9 using command down #paste
 	delay 0.2
 	# -----------------------------------------
 
