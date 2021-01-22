@@ -11,7 +11,7 @@ tell application "System Events"
 	delay 0.2
 	key code 9 using command down # paste
 	delay 0.2
-	# -------------------------------------------
+	# -----------------------------------------
 
 	key code 48 #tab
 	delay 0.2
